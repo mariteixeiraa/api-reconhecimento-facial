@@ -4,20 +4,19 @@ Este projeto é uma aplicação para reconhecimento facial que combina Flask com
 
 
 ## Tecnologias Usadas
-
 - Python
 - HTML
 
-# Para instalação
+## Para instalação
 - Pré-requisitos:
    - Python
    - Twilio
    - Webcam conectada ao computador
 
-# Arquitetura do Projeto
+## Arquitetura do Projeto
 
 api-reconhecimento-facial/
-├── __pycache__/               
+├── _pycache_/               
 │   ├── cadastro_facial.cpython-311.pyc
 │   ├── faces.cpython-311.pyc
 │   └── reconhecimento.cpython-311.pyc
