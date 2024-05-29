@@ -17,13 +17,20 @@ Este projeto é uma aplicação para reconhecimento facial que combina Flask com
 # Arquitetura do Projeto
 
 api-reconhecimento-facial/
-│
+├── __pycache__/               
+│   ├── cadastro_facial.cpython-311.pyc
+│   ├── faces.cpython-311.pyc
+│   └── reconhecimento.cpython-311.pyc
 ├── templates/
-│   └── index.html
-├── facial2.py
-├── app.py
-├── test_app.py
-└── test_facial.py
+│   └── index.html           
+├── README.md                 
+├── app.py                    
+├── cadastro_facial.py        
+├── facial2.py                
+├── reconhecimento.py         
+├── test_app.py               
+└── test_facial.py            
+
 
 ## Equipe
 - Mariana
