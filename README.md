@@ -1,6 +1,6 @@
-# API de Reconhecimento Facial
+# FaceScan Project
 
-Este projeto é uma API para reconhecimento facial que permite identificar rostos a partir de um banco de dados de imagens. Ela pode ser usada em várias aplicações, como segurança, autenticação, e análise de imagem.
+Este projeto é uma aplicação para reconhecimento facial que combina Flask com a funcionalidade de detecção facial usando OpenCV. Ela pode ser usada em várias aplicações, como segurança, autenticação, e análise de imagem.
 
 
 ## Tecnologias Usadas
@@ -8,7 +8,14 @@ Este projeto é uma API para reconhecimento facial que permite identificar rosto
 - Python
 - HTML
 
+# Para instalação
+- Pré-requisitos:
+   - Python
+   - Twilio
+   - Webcam conectada ao computador
+
 # Arquitetura do Projeto
+
 api-reconhecimento-facial/
 │
 ├── templates/
