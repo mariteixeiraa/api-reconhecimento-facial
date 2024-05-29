@@ -7,7 +7,6 @@ https://mariteixeiraa.github.io/api-reconhecimento-facial/
 
 ## Tecnologias Usadas
 
-- JavaScript
 - Python
 - HTML
 
