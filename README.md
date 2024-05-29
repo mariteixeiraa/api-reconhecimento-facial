@@ -10,6 +10,7 @@ Este projeto é uma aplicação para reconhecimento facial que combina Flask com
 ## Para instalação
 - Pré-requisitos:
    - Python
+   - Flask
    - Twilio
    - Webcam conectada ao computador
 
